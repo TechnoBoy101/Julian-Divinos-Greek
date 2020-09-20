@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TechnoBoy101/Julian-Divinos-Greek/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TechnoBoy101/Julian-Divinos-Greek/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lets go</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class= "sub-heading">
+	<h1 class="heading">Ξυλιάν Διβινος </h1>
+	<h2 class="sub-heading">-Η αρχη</h2>
+	<h3 class="chapter-1">Κατά λάθος πλημμύρισα ένα μπάνιο.</h3>
+</div>
+<p>Ξάπλωσα στο κρεβάτι μου, σκέφτοντας, ονειρευόμουν διαρκώς έναν άνδρα με ένα κρύο γέλιο που έλεγε κάτι σαν ροτιμόρ, remiteor ή κάτι τέτοιο. Ζούσα με τη θεία μου Janie και τον θείο μου Jack. Η θεία μου ήταν το καλύτερο άτομο στον κόσμο, αλλά ο θείος μου ήταν όπως οποιοσδήποτε άλλος που θα μπορούσατε να βρείτε, να πιείτε, να καπνίσετε και να περάσετε ώρες και χρήματα στο καζίνο. Πρέπει να αναρωτιέστε γιατί δεν ζούσα τους γονείς μου σωστά; Στην αρχή μου είπαν ότι οι γονείς μου είχαν πεθάνει σε έκρηξη αερίου, αλλά μια νύχτα καθώς ξύπνησα για ένα ποτήρι νερό άκουσα τη θεία και τον θείο μου να μιλούν ……                                                    
+</p>
+<p>… .. “Τζακ, δεν βλέπω κανένα λόγο να μην πω στον Τζούλιαν, είναι 16 ετών, πρέπει να γνωρίζει ότι οι γονείς του δεν είναι νεκροί.” «Όχι Janie είναι ακόμα πολύ νέος. Το έχουμε ήδη συζητήσει αυτό. " Μετά από αυτό άκουσα τις καρέκλες να κινούνται και ήξερα ότι ήρθε η ώρα να επιστρέψω στο δωμάτιό μου. Μία ερώτηση ήρθε στο μυαλό μου. Ποιοι ήταν οι γονείς μου; Η θεία μου είπε πάντα ότι οι γονείς μου είχαν πεθάνει όταν ήμουν μόλις 2 μηνών, οπότε δεν γνώριζα ποτέ τους γονείς μου. Το επόμενο πρωί στο πρωινό η θεία Janie φαινόταν παράξενα νευρική. Συνέχισε να κοιτάζει τον θείο και μετά εγώ, θείος μου. Αφού ο θείος πήγε στο γραφείο, ωχ όχι στο γραφείο του, έπαιρνε δουλειά. Είχε πάει στο γραφείο του οικοτροφείου μου γιατί είχα πλημμυρίσει το μπάνιο. Τι! Δεν ξέρετε την ιστορία; Καλός.</p>
+<p>απλά αστειευόμουν... </p>
+<p></p>
+</body>
+</html>
